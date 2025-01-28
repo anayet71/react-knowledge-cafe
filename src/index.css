@@ -1,6 +1,14 @@
 
 @import "tailwindcss";
 
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap');
+
+
+
+body {
+  font-family: "Exo 2";
+ 
+}
 
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
