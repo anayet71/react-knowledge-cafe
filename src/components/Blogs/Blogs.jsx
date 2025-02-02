@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
+import { useState } from "react";
 import Blog from "../Blog/Blog";
 import PropTypes from 'prop-types'; 
 
@@ -31,3 +32,4 @@ Blogs.propTypes = {
     handleMarkAsRead: PropTypes.func
 }
 export default Blogs;
+/* Blogs */
