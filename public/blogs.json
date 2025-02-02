@@ -7,7 +7,7 @@
       "author_img": "https://i.ibb.co.com/0qpYMZX/boy1.png",
       "posted": "2025-01-20",
       "date": "2025-01-27",
-      "reading_time": "5",
+      "reading_time":5,
       "hashtags": ["dfulness", "#stillness", "#selfcare"]
     },
     {
@@ -18,7 +18,7 @@
       "author_img": "https://i.ibb.co.com/b7BY50T/boy2.jpg",
       "posted": "2025-01-18",
       "date": "2025-01-27",
-      "reading_time": "7",
+      "reading_time": 7,
       "hashtags": ["#adventure", "#exploration", "#unknown"]
     },
     {
@@ -29,7 +29,7 @@
       "author_img": "https://i.ibb.co.com/h8pqJjp/girl1.jpg",
       "posted": "2025-01-15",
       "date": "2025-01-27",
-      "reading_time": "6",
+      "reading_time": 6,
       "hashtags": ["#technology", "#innovation", "#future"]
     },
     {
@@ -40,7 +40,7 @@
       "author_img": "https://i.ibb.co.com/34TCWtG/girl2.jpg",
       "posted": "2025-01-22",
       "date": "2025-01-27",
-      "reading_time": "4",
+      "reading_time": 4,
       "hashtags": ["#health", "#lifestyle", "#wellness"]
     }
   ]
