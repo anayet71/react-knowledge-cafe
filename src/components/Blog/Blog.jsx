@@ -3,7 +3,7 @@ import { MdOutlineBookmark } from "react-icons/md";
 
 
 const Blog = ({ blog, handleAddToBookmark,handleMarkAsRead }) => {
-    const { title, cover, reading_time, author, author_img, posted,  hashtags } = blog
+    const { title, cover, reading_time, author, author_img, posted,  hashtags,id } = blog
     return (
         <div className='mb-20 space-y-4'>
             <img className='w-full rounded-2xl my-6' src={cover} alt={`Cover picture of the title ${title}`} />
@@ -29,7 +29,7 @@ const Blog = ({ blog, handleAddToBookmark,handleMarkAsRead }) => {
                 }
             </p>
             <button 
-            onClick={() => handleMarkAsRead(reading_time)} 
+            onClick={() => handleMarkAsRead(id, reading_time)} 
             className='text-purple-800 font bold underline'>Mark As Read</button>
         </div>
     );

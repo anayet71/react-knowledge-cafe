@@ -1,13 +1,11 @@
-
-@import "tailwindcss";
-
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700&display=swap');
+@import "tailwindcss";
 
 
 
 body {
   font-family: "Exo 2";
- 
+
 }
 
 /* :root {
@@ -79,4 +77,3 @@ button:focus-visible {
   }
 }
  */
-
